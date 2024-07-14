@@ -16,3 +16,7 @@
 [**IBM-AT Technical Reference**](https://github.com/KilianKegel/4KPages-IBMATREFMAN/blob/main/README.md)
 
 [**The 8087 Primer**, John F. Palmer, Stephen P.Morse](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/README.md)
+
+[**PC-XT-AT NUMERIK-BUCH**, Klaus-Dieter Thies](https://github.com/KilianKegel/4KPages-PCXTATNUMERICBOOK/blob/main/README.md)
+
+[**Advanced MSDOS Programming**, Ray Duncon](https://github.com/KilianKegel/4KPages-ADVMSDOSPGM/blob/main/README.md)
