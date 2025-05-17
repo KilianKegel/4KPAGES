@@ -9,6 +9,8 @@
 
 [**Standard C++ Library**, P.J. Plauger](https://github.com/KilianKegel/4KPages-STDCPPLIB/blob/main/README.md)
 
+[**The C++ Standard Template Library**, P.J. Plauger](https://github.com/KilianKegel/4KPages-THE-CPP-STANDARD-TEMPLATE-LIBRARY/blob/main/README.md)
+
 [**MSDOS Encyclopedia**, Ray Duncan](https://github.com/KilianKegel/4KPages-MSDOSENCYCLOPEDIA/blob/main/README.md)
 
 [**IBM-XT Technical Reference**](https://github.com/KilianKegel/4KPages-IBMXTREFMAN/blob/main/README.md)
